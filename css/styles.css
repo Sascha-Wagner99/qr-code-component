@@ -17,6 +17,7 @@
 
 body {
   margin: 0;
+  padding: var(--small-spacing);
   background-color: var(--slate-300);
   font-family: Outfit;
 }
