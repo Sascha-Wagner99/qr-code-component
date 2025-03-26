@@ -2,6 +2,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  margin: 0;
 }
 
 :root {
@@ -16,7 +17,6 @@
 }
 
 body {
-  margin: 0;
   padding: var(--small-spacing);
   background-color: var(--slate-300);
   font-family: Outfit;
@@ -55,7 +55,6 @@ img {
 .text-container p,
 .text-container h2 {
   text-align: center;
-  margin: 0;
   max-inline-size: min(256px, 100%);
 }
 
