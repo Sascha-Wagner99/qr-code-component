@@ -19,7 +19,7 @@
 body {
   padding: var(--small-spacing);
   background-color: var(--slate-300);
-  font-family: Outfit;
+  font-family: "Outfit", system-ui, sans-serif;
 }
 
 main {
