@@ -36,7 +36,7 @@ img {
 .white-bg-container {
   background-color: var(--white);
   border-radius: 20px;
-  max-inline-size: min(320px, 100%);
+  max-inline-size: min(20rem, 100%);
   padding: var(--small-spacing) var(--small-spacing) var(--large-spacing)
     var(--small-spacing);
 }
