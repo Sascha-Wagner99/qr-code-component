@@ -34,7 +34,9 @@ main {
 }
 
 img {
-  inline-size: 100%;
+  max-inline-size: 100%;
+  display: block;
+  height: auto;
 }
 
 .white-bg-container {
