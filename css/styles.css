@@ -62,7 +62,7 @@ img {
   color: var(--slate-900);
 }
 
-.text-container .cta-text {
+.cta-text {
   font-size: 15px;
   font-weight: 400;
   line-height: 140%;
