@@ -45,6 +45,7 @@ img {
   max-inline-size: min(32rem, 100%);
   padding: var(--small-spacing) var(--small-spacing) var(--large-spacing)
     var(--small-spacing);
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
 }
 
 .white-bg-container img {
