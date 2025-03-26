@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  padding: var(--small-spacing);
+  padding-inline: var(--small-spacing);
   background-color: var(--slate-300);
   font-family: "Outfit", system-ui, sans-serif;
 }
